@@ -1,0 +1,7 @@
+T-flux :Rusanov
+B-slope :True
+B-frict :True
+T-cond_ini :Dam
+T-cond_bound :Dirich
+R-temps de simulation :1000
+N-nombre d'évaluations :1000
