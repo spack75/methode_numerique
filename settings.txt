@@ -1,7 +1,9 @@
 T-flux :Rusanov
-B-slope :True
-B-frict :True
-T-cond_ini :Dam
-T-cond_bound :Dirich
-R-temps de simulation :1000
-N-nombre d'évaluations :1000
+B-slope :False
+B-frict :False
+T-cond_ini :Flat
+T-cond_bound :Period
+R-temps_simulation :500.0
+R-longueur :1000.0
+R-pas de temps :1.0
+R-pas spatial :10.0
